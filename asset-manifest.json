@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Yesmeily26/Lab-10-clone.git/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/Yesmeily26/Lab-10-clone.git/static/js/main.b3c1611a.chunk.js",
+    "main.js.map": "/Yesmeily26/Lab-10-clone.git/static/js/main.b3c1611a.chunk.js.map",
+    "runtime-main.js": "/Yesmeily26/Lab-10-clone.git/static/js/runtime-main.bc5e6b55.js",
+    "runtime-main.js.map": "/Yesmeily26/Lab-10-clone.git/static/js/runtime-main.bc5e6b55.js.map",
+    "static/js/2.cdb31e79.chunk.js": "/Yesmeily26/Lab-10-clone.git/static/js/2.cdb31e79.chunk.js",
+    "static/js/2.cdb31e79.chunk.js.map": "/Yesmeily26/Lab-10-clone.git/static/js/2.cdb31e79.chunk.js.map",
+    "static/js/3.4c556f5b.chunk.js": "/Yesmeily26/Lab-10-clone.git/static/js/3.4c556f5b.chunk.js",
+    "static/js/3.4c556f5b.chunk.js.map": "/Yesmeily26/Lab-10-clone.git/static/js/3.4c556f5b.chunk.js.map",
+    "index.html": "/Yesmeily26/Lab-10-clone.git/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/Yesmeily26/Lab-10-clone.git/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.cdb31e79.chunk.js.LICENSE.txt": "/Yesmeily26/Lab-10-clone.git/static/js/2.cdb31e79.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Yesmeily26/Lab-10-clone.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc5e6b55.js",
+    "static/js/2.cdb31e79.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.b3c1611a.chunk.js"
+  ]
+}
